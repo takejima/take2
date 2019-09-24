@@ -4,3 +4,5 @@ gitの練習をしています。
 .git commit1:wq
 test myself
 さらに練習
+aaa
+
