@@ -3,3 +3,4 @@ gitの練習をしています。
 .git add
 .git commit1:wq
 test myself
+さらに練習
