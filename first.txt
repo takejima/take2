@@ -1,2 +1,5 @@
 gitの練習をしています。
 基本的なワークフローを学びます。
+.git add
+.git commit1:wq
+test myself
